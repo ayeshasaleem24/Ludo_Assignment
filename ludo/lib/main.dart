@@ -59,7 +59,7 @@ class Ludo extends StatelessWidget {
               ),
           ],
         ),
-        
+
         // Second Column 
         //Green $ Red color
         Column(
@@ -487,7 +487,7 @@ class Ludo extends StatelessWidget {
               ),
           ],
         ),
-        
+
         // Six Column 
         //Green $ Red color
         Column(
@@ -711,7 +711,7 @@ class Ludo extends StatelessWidget {
     ),
   ),
 ),
- 
+
         ],
       ),
 
@@ -755,7 +755,7 @@ class Ludo extends StatelessWidget {
                   borderRadius: BorderRadius.circular(5),
                 ),
               ),
-            
+
             Container(
                 width: 50,
                 height: 50,
@@ -765,7 +765,7 @@ class Ludo extends StatelessWidget {
                   borderRadius: BorderRadius.circular(5),
                 ),
               ),
-            
+
 
               Container(
                 width: 50,
@@ -862,7 +862,7 @@ class Ludo extends StatelessWidget {
               ),
           ],
         ),
-        
+
         // Second Column
         //yellow $ blue color 
         Column(
@@ -1135,8 +1135,8 @@ class Ludo extends StatelessWidget {
                 width: 50,
                 height: 50,
                 decoration: BoxDecoration(
-                  color: Colors.white,
-                  border: Border.all(color: Colors.black, width: 1),
+                 color: const Color.fromARGB(255, 128, 125, 125),
+                 border: Border.all(color: Colors.black, width: 1),
                   borderRadius: BorderRadius.circular(5),
                 ),
               ),
@@ -1244,8 +1244,8 @@ class Ludo extends StatelessWidget {
                 width: 50,
                 height: 50,
                 decoration: BoxDecoration(
-                 color: const Color.fromARGB(255, 128, 125, 125),
-                 border: Border.all(color: Colors.black, width: 1),
+                  color: Colors.white,
+                  border: Border.all(color: Colors.black, width: 1),
                   borderRadius: BorderRadius.circular(5),
                 ),
               ),
@@ -1290,7 +1290,7 @@ class Ludo extends StatelessWidget {
               ),
           ],
         ),
-        
+
         // Six Column 
         //yellow $ blue color
         Column(
